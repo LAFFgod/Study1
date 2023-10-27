@@ -1,7 +1,7 @@
 body{
     color: azure;
     background-color: black;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:  Arial, Helvetica, sans-serif;
 }
 
 ul{
@@ -12,7 +12,7 @@ ul{
     padding: 16px;
 }
 a{
-    color: azure;
+    color: rgb(17, 0, 255);
     text-decoration: none;
 }
 
@@ -20,7 +20,7 @@ img{
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid #585858;
+    border: 5px solid #0011ff;
 }
 .center{
     text-align: center;
